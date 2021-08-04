@@ -1,4 +1,5 @@
---------------------------------------------------------------------
+Hola! bienvenido a mi repo.
+----------------------------------------------------------------------------------------------------------------------------------------
 - <span style="color:green;">s0m30n3@GH ></span> echo $whoami
 
 Hi, I’m Matias Sandoval de Argentina y trabajo como SysAdmin!!
@@ -22,24 +23,8 @@ Host: mrsandoval.com.ar
 User-Agent: curl/7.74.0
     
 Accept: */*
-    
-> 
-Mark bundle as not supporting multiuse
-   
-HTTP/1.1 301 Moved Permanently
-    
-Location: https://mrsandoval.com.ar/
-    
-Date: Tue, 03 Aug 2021 20:52:37 GMT
-    
-Content-Length: 17
-    
-Content-Type: text/plain; charset=utf-8
-    
-Connection #0 to host mrsandoval.com.ar left intact
-    
-Moved Permanently                                           
-
+                  
+--------------------------------------------------------------------------------------------------------------------------------------
 - 📫 Como me pueden contactar:
 - ✨ https://mrsandoval.com.ar ...
 
